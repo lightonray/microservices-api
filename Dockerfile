@@ -11,4 +11,4 @@ COPY . .
 ENV PORT 8080
 EXPOSE 8080
 
-CMD ["python", "./armela-anxhela-readela-ildo/api.py"]
+CMD ["python", "api.py"]
